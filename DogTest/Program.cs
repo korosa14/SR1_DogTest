@@ -8,7 +8,6 @@ namespace DogTest
 {
     internal class Program
     {
-        
         static void Main(string[] args)
         {
             //Dogクラスのインスタンスhachiを生成する
